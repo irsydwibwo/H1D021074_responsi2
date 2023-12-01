@@ -1,0 +1,7 @@
+{
+  "name": "Peminjaman",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
